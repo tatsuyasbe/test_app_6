@@ -23,4 +23,5 @@ Things you may want to cover:
 
 * ...
 
-from Complete Ruby on Rails
+from Complete Ruby on Rails by Tatsuya
+# test_app_6
